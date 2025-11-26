@@ -13,8 +13,8 @@ A simple and responsive Image Search Engine built using **HTML**, **CSS**, and *
 
 ## 📷 Demo
 
-![screenshot](imges/desktopview.png)
-![screenshot](imges/mobileview.png)
+![screenshot](images/desktopview.png)
+![screenshot](images/mobileview.png)
 
 ## 🛠️ Technologies Used
 
